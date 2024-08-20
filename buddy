@@ -1,0 +1,11 @@
+public class AddTwoNumbers {
+int num1=10;
+int num2=20;
+    public static void main(String[] args) {
+        int sum = number1+number2 ;
+
+
+ System.out.println("The sum of " + number1 + " and " + number2 + " is " + sum);
+    }
+}
+0 comments on commit 6f308
